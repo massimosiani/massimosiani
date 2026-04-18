@@ -28,6 +28,8 @@
 
 ## Open Source
 
+**AI tooling** — [`claude-token-saver`](https://github.com/massimosiani/claude-token-saver), a Claude Code plugin that configures token-efficient rules to reduce context usage.
+
 Contributions to the Scala functional programming ecosystem — [cats](https://github.com/typelevel/cats), [http4s](https://github.com/http4s/http4s), [doobie](https://github.com/typelevel/doobie), [tapir](https://github.com/softwaremill/tapir), [skunk](https://github.com/typelevel/skunk), [natchez](https://github.com/typelevel/natchez) — plus small original repos like [`monix-newtypes-cats`](https://github.com/massimosiani/monix-newtypes-cats), [`deeplearning-example`](https://github.com/massimosiani/deeplearning-example), and [`kafka-starter`](https://github.com/massimosiani/kafka-starter).
 
 ## Connect
