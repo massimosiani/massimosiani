@@ -30,9 +30,15 @@
 
 Contributions to the Scala functional programming ecosystem — [cats](https://github.com/typelevel/cats), [http4s](https://github.com/http4s/http4s), [doobie](https://github.com/typelevel/doobie), [tapir](https://github.com/softwaremill/tapir), [skunk](https://github.com/typelevel/skunk), [natchez](https://github.com/typelevel/natchez) — plus small original repos like [`monix-newtypes-cats`](https://github.com/massimosiani/monix-newtypes-cats), [`deeplearning-example`](https://github.com/massimosiani/deeplearning-example), and [`kafka-starter`](https://github.com/massimosiani/kafka-starter).
 
-## Talks
+## Community
 
-- **F(un) & P(rofit) in Scala** — Scala Italy, October 2021
+**Co-founder & organizer** of [Functional Fest](https://www.functionalfest.it/), the Italian functional programming conference (2019–2021). Curated the speaker lineup and moderated live technical sessions with national and international FP experts. Recordings on [YouTube](https://www.youtube.com/@functionalfest464).
+
+**Speaker** — F(un) & P(rofit) in Scala, Scala Italy, October 2021
+
+**Manuscript reviewer** for Manning Publications (since 2018).
+
+**Google Summer of Code mentor** (2014) — guided an open source contributor on a Java project funded by Google.
 
 ## Connect
 
