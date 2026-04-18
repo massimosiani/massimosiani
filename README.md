@@ -18,11 +18,11 @@
 - 🧭 **[PathMates](https://pathmates-landing.web.app)** — a group-travel companion for planning multi-stop trips together. *Flutter · Rust · PostgreSQL.* Early access preview — sign up and try it out, but expect rough edges. Feedback welcome!
 - 👔 **A wardrobe app** — AI-assisted outfit and wardrobe management. *Work in progress, stealth.*
 
-## What I'm About
+## Mindset
 
 - **Functional programming roots** — 10+ years in the Scala FP ecosystem
 - **Type-driven design** — make illegal states unrepresentable
-- **Polyglot by curiosity** — Scala, Rust, Kotlin, TypeScript
+- **Polyglot by curiosity** — Scala, Rust, Kotlin, TypeScript, Flutter
 - **AI-augmented workflow** — Claude Code and Codex for orchestration, humans for judgment
 - **Ship small, ship often** — keep the feedback loop tight
 
@@ -31,6 +31,10 @@
 **AI tooling** — [`claude-token-saver`](https://github.com/massimosiani/claude-token-saver), a Claude Code plugin that configures token-efficient rules to reduce context usage.
 
 Contributions to the Scala functional programming ecosystem — [cats](https://github.com/typelevel/cats), [http4s](https://github.com/http4s/http4s), [doobie](https://github.com/typelevel/doobie), [tapir](https://github.com/softwaremill/tapir), [skunk](https://github.com/typelevel/skunk), [natchez](https://github.com/typelevel/natchez) — plus small original repos like [`monix-newtypes-cats`](https://github.com/massimosiani/monix-newtypes-cats), [`deeplearning-example`](https://github.com/massimosiani/deeplearning-example), and [`kafka-starter`](https://github.com/massimosiani/kafka-starter).
+
+## Talks
+
+- **F(un) & P(rofit) in Scala** — Scala Italy, October 2021
 
 ## Connect
 
