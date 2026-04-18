@@ -15,7 +15,7 @@
 
 ## Currently Building
 
-- 🧭 **PathMates** — a group-travel companion for planning multi-stop trips together. *Flutter · Rust · PostgreSQL. In development.*
+- 🧭 **[PathMates](https://pathmates-landing.web.app)** — a group-travel companion for planning multi-stop trips together. *Flutter · Rust · PostgreSQL.* Early access preview — sign up and try it out, but expect rough edges. Feedback welcome!
 - 👔 **A wardrobe app** — AI-assisted outfit and wardrobe management. *Work in progress, stealth.*
 
 ## What I'm About
