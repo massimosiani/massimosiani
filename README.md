@@ -1,5 +1,3 @@
-# Massimo Siani
-
 📍 **Milano, Italy** | 🎯 **Engineering Leader** | ⚙️ **FP · Backend · Systems**
 
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
