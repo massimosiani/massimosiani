@@ -18,11 +18,12 @@
 
 ## Mindset
 
+- **Ship small, ship often** — keep the feedback loop tight
 - **Functional programming roots** — 10+ years in the Scala FP ecosystem
 - **Type-driven design** — make illegal states unrepresentable
-- **Polyglot by curiosity** — Scala, Rust, Kotlin, TypeScript, Flutter
+- **Cloud native** — infrastructure as code by default
 - **AI-augmented workflow** — Claude Code and Codex for orchestration, humans for judgment
-- **Ship small, ship often** — keep the feedback loop tight
+- **Polyglot by curiosity** — Scala, Rust, Kotlin, TypeScript, Flutter
 
 ## Open Source
 
